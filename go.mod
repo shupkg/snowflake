@@ -1,3 +1,3 @@
-module github.com/shupkg/wid
+module github.com/shupkg/snowflake
 
 go 1.15
